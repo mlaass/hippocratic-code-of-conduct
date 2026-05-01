@@ -6,7 +6,7 @@ This project is guided by a singular, ancient rule that bridges cultures and era
 
 We are a community of builders. Our shared goal is to create, improve, and maintain this project. To do so effectively, we must collaborate with mutual respect. We do not care about your background, politics, or personal philosophy outside of this project; within this project, you are expected to practice basic human decency, self-mastery, and constructive collaboration.
 
-In short: **Put forward your best behavior, and do not be a jerk.**
+In short: **Put forward your best behavior, and don't be an asshole.**
 
 ## **II. Core Principles**
 
