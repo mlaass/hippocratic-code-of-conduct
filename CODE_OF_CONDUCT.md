@@ -66,4 +66,4 @@ If someone violates this code, our goal is correction, not merely punishment.
 
 ## **VI. License**
 
-This Code of Conduct is released into the public domain under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to copy, modify, and distribute it for your own projects without attribution.
+This Code of Conduct is released into the public domain under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). You are free to copy, modify, and distribute it for your own projects without attribution. If you prefer, you may optionally include a brief reference to the original repository in your project's README or documentation.

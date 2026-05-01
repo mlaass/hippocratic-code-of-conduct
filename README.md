@@ -18,7 +18,7 @@ The goal is simple: put forward your best behavior, focus on the code, and don't
 
 ## How to adopt this for your project
 
-Adopting this Code of Conduct is simple and requires no attribution:
+Adopting this Code of Conduct is simple and requires no attribution. If you'd like, you may optionally include a brief reference to the original repository in your project's README or documentation:
 
 1. Download or copy the contents of the `CODE_OF_CONDUCT.md` file.
 
